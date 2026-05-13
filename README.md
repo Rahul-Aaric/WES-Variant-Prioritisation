@@ -20,7 +20,7 @@ bedtools
 ## Reference Genome
 Human GRCh38 / hg38 reference genome was used.
 
-Points to keep in mind:- 
+## Points to keep in mind:- 
 a) Modify all paths according to local installation.
 b) GRCh38/hg38 reference genome was used.
 c) Pipeline supports both germline and somatic WES analysis.
